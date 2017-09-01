@@ -9,5 +9,5 @@ My First book for QT
 
 #GIT JIAOCHEN  FEATURE-A
 
-git feature-C
+git feature-C xx
 
