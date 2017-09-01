@@ -11,3 +11,4 @@ My First book for QT
 
 git feature-C xx
 
+git feature-D
